@@ -1,0 +1,9 @@
+111 Poule 3 12 2002 femelle 
+000 Cheval 3 3 2003 male 
+9999 Vache 10 10 2010 femelle 
+666 Cheval 1 1 2000 femelle 
+0000 Poule 3 3 2003 male 
+AA Vache 1 1 2000 femelle 
+hh gg 3 2 2001 femelle 
+jj Poule 3 3 2002 femelle 
+gg Vache 2 2 2001 femelle 
